@@ -50,24 +50,6 @@ Linguagens e utilitários que fazem parte da minha forja diária:
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <a href="https://github.com/rubenmassuquetto1999">
-    <img src="https://github-readme-stats.vercel.app/api?username=rubenmassuquetto1999&show_icons=true&theme=radical&hide_border=true&v=4" height="150" alt="Estatísticas do Ruben"/>
-  </a>
-  <a href="https://github.com/rubenmassuquetto1999">
-    <img src="https://streak-stats.demolab.com?user=rubenmassuquetto1999&theme=radical&hide_border=true" height="150" alt="GitHub Streak"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/rubenmassuquetto1999">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmassuquetto1999&layout=compact&show_icons=true&theme=radical&hide_border=true&v=4" height="150" alt="Top Linguagens"/>
-  </a>
-</p>
-
----
-
 ### 🎯 Próximos Lançamentos
 
 Projetos que já estão na minha forja local e em breve estarão públicos no meu GitHub:
