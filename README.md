@@ -26,13 +26,10 @@
 - 🔭 Atualmente expandindo meu ecossistema **JavaScript** e aprimorando UI/UX.
 - 🌱 Focado em estruturação e estilização impecáveis com **HTML, CSS e JS puro**.
 - 📍 Diretamente de Campo Largo, PR.
-- 💡 **Destaque:** Dá uma olhada no meu repositório do *Conversor de Moedas*! Em breve, estarei subindo mais ferramentas que estou construindo localmente.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-
-Linguagens e utilitários que fazem parte da minha forja diária:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
@@ -50,11 +47,20 @@ Linguagens e utilitários que fazem parte da minha forja diária:
 
 ---
 
+### 🚀 Projetos em Destaque
+
+🔹 **⏱️ Chronos Timer (Cronômetro de Precisão)** Um projeto focado em lógica pura de programação e precisão de tempo real utilizando o objeto `Date.now()`. Possui interface moderna com *glassmorphism*, marcação de voltas e total responsividade.  
+🔗 [Acesse o Chronos aqui](https://rubenmassuquetto1999.github.io/chronos-timer/) | [Ver Repositório](https://github.com/rubenmassuquetto1999/chronos-timer)
+
+🔹 **🧮 Premium Glass Calculator** Calculadora moderna com estética glassmorphism, focada em uma interface limpa e lógica JavaScript precisa.  
+🔗 [Acesse a Calculadora aqui](https://rubenmassuquetto1999.github.io/premium-glass-calculator/) | [Ver Repositório](https://github.com/rubenmassuquetto1999/premium-glass-calculator)
+
+---
+
 ### 🎯 Próximos Lançamentos
 
-Projetos que já estão na minha forja local e em breve estarão públicos no meu GitHub:
+Projetos que já estão na minha forja local e em breve estarão públicos:
 
-- 🧮 **Calculadora Moderna:** Construída do zero com foco em lógica JavaScript avançada e design responsivo.
-- 🌤️ **Weather App:** Aplicação de previsão do tempo consumindo API externa, com UI otimizada e *loading skeleton*.
+- 🌤️ **Weather App:** Aplicação de previsão do tempo consumindo API externa, com UI otimizada.
 - 🎨 **Gerador de CSS com IA:** Ferramenta interativa que gera código CSS automaticamente a partir de instruções em texto.
-- 🔧 **Landing Page (Mario & Luigi):** Projeto prático de estruturação visual utilizando a tríade HTML, CSS e JS puro.
+- 🔧 **Landing Page (Mario & Luigi):** Projeto prático de estruturação visual temática.
