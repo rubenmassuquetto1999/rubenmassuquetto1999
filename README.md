@@ -18,13 +18,13 @@
 
 </div>
 
-## 🛰️ **LOG DO COMANDANTE - MISSÃO DIGITAL**
+## 🛰️ **LOG DO CAPITÃO - MISSÃO DIGITAL**
 
 ```javascript
-const comandanteRuben = {
-    identidade: "Engenheiro Front-End | Especialista em Processos", //
-    setor: "Campo Largo - PR | Quadrante Terra 🌎", //
-    background: "Ex-Coordenador de PCP e Compras Industrial", //
+const capitaoRuben = {
+    identidade: "Desenvolvedor Front-End | Especialista em Processos", //
+    setor: "Campo Largo - PR | Quadrante Alfa - Terra 🌎", //
+    background: "Ex-Coordenador de PCP e Compras em Construtora", //
     formacao: ["Ciência de Dados", "MBA em Growth Marketing"], //
     
     diretriz_principal: `
@@ -80,7 +80,7 @@ Front-End que não apenas funcionam,
 mas performam com excelência militar 
 e visão estratégica de crescimento."
 
-- Comandante Ruben Massuquetto 👨‍🚀
+- Capitão Ruben Massuquetto 👨‍🚀
 ```
 
 </td>
@@ -130,7 +130,7 @@ e visão estratégica de crescimento."
 
 ---
 
-## 📡 FREQUÊNCIAS DE CONTATO (COMMS)
+## 📡 FREQUÊNCIAS DE COMUNICAÇÃO (COMMS)
 
 | CANAL | COORDENADA | STATUS |
 | :--- | :--- | :--- |
